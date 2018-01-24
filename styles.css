@@ -1,0 +1,31 @@
+/* add your CSS here */
+#fact{
+    font-style: italic;
+}
+#list{
+    list-style: none;
+    list-style-position: outside;
+    margin: 0;
+    padding: 0;
+}
+span{
+    font-weight: bold;
+}
+div{
+    border:1px solid grey;
+    padding: 10px;
+}
+#dog{
+    padding-bottom: 5px;
+}
+#content{
+    width:300px;
+    -webkit-box-shadow: 7px 10px 14px -6px rgba(0,0,0,0.56);
+-moz-box-shadow: 7px 10px 14px -6px rgba(0,0,0,0.56);
+box-shadow: 7px 10px 14px -6px rgba(0,0,0,0.56);
+Copy Text
+}
+#main{
+    font-size: 25px;
+}
+
